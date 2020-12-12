@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+<title>Think Rethink Play Podcast</title>
+*<link>http://www.example.com/<link>
+<language>en-us</language>
+<itunes:subtitle>by Rethink Gaming</itunes:subtitle>
+<itunes:author>Jerry Pirkle and Bob McDowell</itunes:author>
+<itunes:summary>Jerry, Bob, and the occasional guest discuss gaming topics.</itunes:summary>
+<description>The RethinkGaming staff discuss gaming and pop culture topics. We're currently playing A lOT of Dungeons and Dragons, but anything gaming related is fair game. Join us on Patreon to get a shout out and let us know what you want to talk about!</description>
+<itunes:owner>
+    <itunes:name>Jerry Pirkle</itunes:name>
+    <itunes:email>legendary.jerry@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+*<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:category text="Games"/></itunes:category>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Think Rethink Play Podcast | Ep 1 | How to Railroad Your Players in DnD
+</title>
+    <itunes:summary>Bob and Jerry discuss the topic of Agency in roleplaying games with stories, examples, and a little Q&A.
+</itunes:summary>
+    <description>What is player agency? What is railroading? How do you balance telling the story that you want to tell with the actions of unpredictable demigod murder hobos?</description>
+*    <link>http://example.com/podcast-1</link>
+    <enclosure url="http://example.com/podcast-1/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sat, 12 Dec 2020 16:01:07 +0000</pubDate>
+    <itunes:author>Jerry Pirkle</itunes:author>
+    <itunes:duration>00:53:39</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+*    <guid>http://example.com/podcast-1</guid>
+</item> 
+<!--END REPEAT--> 
+   
+</channel>
+</rss>
