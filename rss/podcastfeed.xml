@@ -24,13 +24,13 @@
     <itunes:summary>Bob and Jerry discuss the topic of Agency in roleplaying games with stories, examples, and a little Q&A.
 </itunes:summary>
     <description>What is player agency? What is railroading? How do you balance telling the story that you want to tell with the actions of unpredictable demigod murder hobos?</description>
-*    <link>http://example.com/podcast-1</link>
+    <link>http://example.com/podcast-1</link>
     <enclosure url="http://example.com/podcast-1/podcast.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sat, 12 Dec 2020 16:01:07 +0000</pubDate>
     <itunes:author>Jerry Pirkle</itunes:author>
     <itunes:duration>00:53:39</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
-*    <guid>http://example.com/podcast-1</guid>
+    <guid>http://example.com/podcast-1</guid>
 </item> 
 <!--END REPEAT--> 
    
