@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
 <channel>
 <title>Think Rethink Play Podcast</title>
 <link>http://www.rethinkgaming.com/</link>
@@ -18,8 +17,8 @@
 <itunes:category text="Games"></itunes:category>
 
 <item>
-    <title>Think Rethink Play Podcast | Ep 1 | How to Railroad Your Players in DnD</title>
-    <itunes:summary>Bob and Jerry discuss the topic of Agency in roleplaying games with stories, examples, and a little Q%26	A.</itunes:summary>
+    <title>Think Rethink Play Podcast | Ep 1 | How to Railroad Your Players in D&amp;D</title>
+    <itunes:summary>Bob and Jerry discuss the topic of Agency in roleplaying games with stories, examples, and a little Q&amp;A.</itunes:summary>
     <description>What is player agency? What is railroading? How do you balance telling the story that you want to tell with the actions of unpredictable demigod murder hobos?</description>
     <link>http://example.com/podcast-1</link>
     <enclosure url="http://rethinkggaming.com/rss/ep1agency.mp4" type="audio/mpeg" length="1024"></enclosure>
@@ -28,7 +27,6 @@
     <itunes:duration>00:53:39</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://rethinkggaming.com/rss/ep1agency.mp4</guid>
-</item> 
-   
+</item>  
 </channel>
 </rss>
