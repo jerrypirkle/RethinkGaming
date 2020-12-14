@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
   <title>Think Rethink Play Podcast</title>
   <link>http://www.rethinkgaming.com/</link>
@@ -15,7 +15,7 @@
   </itunes:owner>
   <itunes:explicit>yes</itunes:explicit>
   <itunes:image href="http://rethinkggaming.com/rss/RTGlogo.png"/>
-  <itunes:category text="Games"/>
+  <itunes:category text="Hobbies"/>
 
   <item>
       <title>Think Rethink Play Podcast | Ep 1 | How to Railroad Your Players in D&amp;D</title>
@@ -27,7 +27,8 @@
       <itunes:author>Jerry Pirkle</itunes:author>
       <itunes:duration>00:53:39</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
-      <guid>3b77eb7b-584b-4c4e-af4a-6102d8e36457</guid>
-  </item>  
+      <guid>http://rethinkggaming.com/rss/ep1agency.mp4</guid>
+  </item>
+  <atom:link href="http://www.rethinkgaming.com/rss/podcastfeed.xml" rel="self" type="application/rss+xml" />  
 </channel>
 </rss>
