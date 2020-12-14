@@ -15,8 +15,8 @@
   </itunes:owner>
   <itunes:explicit>yes</itunes:explicit>
   <itunes:image href="http://rethinkggaming.com/rss/RTGlogo.png"/>
-  <itunes:category text="Arts &amp; Entertainment">
-    <itunes:category text="Games"/>
+  <itunes:category text="Games &amp; Hobbies">
+    <itunes:category text="Hobbies"/>
   </itunes:category>
   <atom:link href="https://rethinkgaming-site.s3.us-east-2.amazonaws.com/rss/podcastfeed.xml" rel="self" type="application/rss+xml" />  
   <item>
