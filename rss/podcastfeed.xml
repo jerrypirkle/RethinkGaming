@@ -15,8 +15,10 @@
   </itunes:owner>
   <itunes:explicit>yes</itunes:explicit>
   <itunes:image href="http://rethinkggaming.com/rss/RTGlogo.png"/>
-  <itunes:category text="Hobbies"/>
-
+  <itunes:category text="Arts &amp; Entertainment">
+    <itunes:category text="Games"/>
+  </itunes:category>
+  <atom:link href="https://rethinkgaming-site.s3.us-east-2.amazonaws.com/rss/podcastfeed.xml" rel="self" type="application/rss+xml" />  
   <item>
       <title>Think Rethink Play Podcast | Ep 1 | How to Railroad Your Players in D&amp;D</title>
       <itunes:summary>Bob and Jerry discuss the topic of Agency in roleplaying games with stories, examples, and a little Q&amp;A.</itunes:summary>
@@ -28,7 +30,6 @@
       <itunes:duration>00:53:39</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <guid>http://rethinkggaming.com/rss/ep1agency.mp4</guid>
-  </item>
-  <atom:link href="http://www.rethinkgaming.com/rss/podcastfeed.xml" rel="self" type="application/rss+xml" />  
+  </item>  
 </channel>
 </rss>
